@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 DB_PATH = r"E:\job_market_project\data\jobs.db"
-OUT_JSON = r"E:\job_market_project\web\jobs.json"
+OUT_JSON = r"E:\job_market_project\jobs.json"
 
 def main():
     conn = sqlite3.connect(DB_PATH)
