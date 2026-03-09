@@ -4,14 +4,29 @@ import pandas as pd
 DB_PATH = r"E:\job_market_project\data\jobs.db"
 CSV_PATH = r"E:\job_market_project\output\usajobs_full.csv"
 
+def normalize_telework_flag(value):
+    s = str(value).strip().lower()
+
+    if s in ["yes", "true", "y", "1", "remote"]:
+        return "remote"
+    elif s in ["no", "false", "n", "0", "onsite", "on-site", "non_remote"]:
+        return "non_remote"
+    else:
+        return "unknown"
+
 def main():
     df = pd.read_csv(CSV_PATH)
 
     df["source"] = "usajobs"
 
+    if "telework" not in df.columns:
+        df["telework"] = ""
+
+    df["telework_flag"] = df["telework"].apply(normalize_telework_flag)
+
     needed = [
         "job_id", "source", "title", "organization", "department", "location",
-        "posting_date", "closing_date", "telework", "grade", "job_series",
+        "posting_date", "closing_date", "telework", "telework_flag", "grade", "job_series",
         "salary_min", "salary_max", "salary_rate", "apply_url"
     ]
 
@@ -30,10 +45,10 @@ def main():
         cur.execute("""
         INSERT OR REPLACE INTO jobs (
             job_id, source, title, organization, department, location,
-            posting_date, closing_date, telework, grade, job_series,
+            posting_date, closing_date, telework, telework_flag, grade, job_series,
             salary_min, salary_max, salary_rate, apply_url
         )
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, tuple(row))
 
         inserted += 1

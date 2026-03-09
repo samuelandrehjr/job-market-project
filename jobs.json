@@ -14,7 +14,8 @@
     "salary_min": 151597.0,
     "salary_max": 256833.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858326300"
+    "apply_url": "https://www.usajobs.gov:443/job/858326300",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "126651-01-SEMO",
@@ -31,7 +32,8 @@
     "salary_min": 151661.0,
     "salary_max": 209600.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857718200"
+    "apply_url": "https://www.usajobs.gov:443/job/857718200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "126560-02-BG",
@@ -48,7 +50,8 @@
     "salary_min": 167446.0,
     "salary_max": 197200.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/856267600"
+    "apply_url": "https://www.usajobs.gov:443/job/856267600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "126549-02-BG",
@@ -65,7 +68,8 @@
     "salary_min": 132751.0,
     "salary_max": 197200.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/856267100"
+    "apply_url": "https://www.usajobs.gov:443/job/856267100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-OIT-IMP-12895615-MB",
@@ -82,7 +86,8 @@
     "salary_min": 169279.0,
     "salary_max": 197200.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859345400"
+    "apply_url": "https://www.usajobs.gov:443/job/859345400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-DO-12891471-DH",
@@ -99,7 +104,8 @@
     "salary_min": 89508.0,
     "salary_max": 197200.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858700600"
+    "apply_url": "https://www.usajobs.gov:443/job/858700600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-12896230-DNI/ICCIO",
@@ -116,7 +122,8 @@
     "salary_min": 169279.0,
     "salary_max": 197200.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858768100"
+    "apply_url": "https://www.usajobs.gov:443/job/858768100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-12896231-DNI/ICCIO",
@@ -133,7 +140,8 @@
     "salary_min": 143913.0,
     "salary_max": 197200.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858775600"
+    "apply_url": "https://www.usajobs.gov:443/job/858775600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "JMD-AFMS-26-12892793-ST",
@@ -150,7 +158,8 @@
     "salary_min": 169279.0,
     "salary_max": 197200.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858708700"
+    "apply_url": "https://www.usajobs.gov:443/job/858708700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-DISA-12898069-26-DJB",
@@ -167,7 +176,8 @@
     "salary_min": 146389.0,
     "salary_max": 190308.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859642000"
+    "apply_url": "https://www.usajobs.gov:443/job/859642000",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "req719",
@@ -184,7 +194,8 @@
     "salary_min": 132243.0,
     "salary_max": 189308.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859327300"
+    "apply_url": "https://www.usajobs.gov:443/job/859327300",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ST-12896584-26-LMS",
@@ -201,7 +212,8 @@
     "salary_min": 122857.0,
     "salary_max": 188733.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859111000"
+    "apply_url": "https://www.usajobs.gov:443/job/859111000",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "IG-26-12895807-MST-INT",
@@ -218,7 +230,8 @@
     "salary_min": 143913.0,
     "salary_max": 187093.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858827300"
+    "apply_url": "https://www.usajobs.gov:443/job/858827300",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CMS-CM-26-12895003-DE",
@@ -235,7 +248,8 @@
     "salary_min": 143913.0,
     "salary_max": 187093.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859115000"
+    "apply_url": "https://www.usajobs.gov:443/job/859115000",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DHRADMDC-26-12891601-MP",
@@ -252,7 +266,8 @@
     "salary_min": 121785.0,
     "salary_max": 187093.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858572700"
+    "apply_url": "https://www.usajobs.gov:443/job/858572700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DLAJ6-26-12893686-MP",
@@ -269,7 +284,8 @@
     "salary_min": 125776.0,
     "salary_max": 187093.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858560700"
+    "apply_url": "https://www.usajobs.gov:443/job/858560700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-DISA -12899060- 26AJR",
@@ -286,7 +302,8 @@
     "salary_min": 143913.0,
     "salary_max": 187093.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859596200"
+    "apply_url": "https://www.usajobs.gov:443/job/859596200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-IN-12896032-EX",
@@ -303,7 +320,8 @@
     "salary_min": 143913.0,
     "salary_max": 187093.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859167600"
+    "apply_url": "https://www.usajobs.gov:443/job/859167600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "TMCO-EUSO-26-12900943-MP",
@@ -320,7 +338,8 @@
     "salary_min": 121785.0,
     "salary_max": 187093.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859695900"
+    "apply_url": "https://www.usajobs.gov:443/job/859695900",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "TMCO-EUSO-26-12900944-DE",
@@ -337,7 +356,8 @@
     "salary_min": 121785.0,
     "salary_max": 187093.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859696700"
+    "apply_url": "https://www.usajobs.gov:443/job/859696700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DE-12889132-26-RJB",
@@ -354,7 +374,8 @@
     "salary_min": 120231.0,
     "salary_max": 186206.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857814200"
+    "apply_url": "https://www.usajobs.gov:443/job/857814200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-BPA-50019-12890861-DE",
@@ -371,7 +392,8 @@
     "salary_min": 135522.0,
     "salary_max": 176183.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858822100"
+    "apply_url": "https://www.usajobs.gov:443/job/858822100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-BPA-50019-12890860-MP",
@@ -388,7 +410,8 @@
     "salary_min": 135522.0,
     "salary_max": 176183.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858821600"
+    "apply_url": "https://www.usajobs.gov:443/job/858821600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ST-12897125-26-BM",
@@ -405,7 +428,8 @@
     "salary_min": 111119.0,
     "salary_max": 170708.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858964100"
+    "apply_url": "https://www.usajobs.gov:443/job/858964100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DCMA-PH-26-12899213-IMP",
@@ -422,7 +446,8 @@
     "salary_min": 126783.0,
     "salary_max": 167386.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859647400"
+    "apply_url": "https://www.usajobs.gov:443/job/859647400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ST-12893335-26-RMS",
@@ -439,7 +464,8 @@
     "salary_min": 108019.0,
     "salary_max": 165945.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858728100"
+    "apply_url": "https://www.usajobs.gov:443/job/858728100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "126567-02-AG",
@@ -456,7 +482,8 @@
     "salary_min": 126384.0,
     "salary_max": 164301.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/856267800"
+    "apply_url": "https://www.usajobs.gov:443/job/856267800",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-RGJ-12878478-MP",
@@ -473,7 +500,8 @@
     "salary_min": 106437.0,
     "salary_max": 158322.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859381500"
+    "apply_url": "https://www.usajobs.gov:443/job/859381500",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-DISA-12892998-26DA",
@@ -490,7 +518,8 @@
     "salary_min": 121785.0,
     "salary_max": 158322.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859351700"
+    "apply_url": "https://www.usajobs.gov:443/job/859351700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-DISA-12887742-26BL",
@@ -507,7 +536,8 @@
     "salary_min": 121785.0,
     "salary_max": 158322.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859306700"
+    "apply_url": "https://www.usajobs.gov:443/job/859306700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DISA-12893935-26TH",
@@ -524,7 +554,8 @@
     "salary_min": 121785.0,
     "salary_max": 158322.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858774800"
+    "apply_url": "https://www.usajobs.gov:443/job/858774800",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-DISA-12895091-26QC",
@@ -541,7 +572,8 @@
     "salary_min": 121785.0,
     "salary_max": 158322.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858899700"
+    "apply_url": "https://www.usajobs.gov:443/job/858899700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "HRSC/INL-2026-0001",
@@ -558,7 +590,8 @@
     "salary_min": 121785.0,
     "salary_max": 158322.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859346400"
+    "apply_url": "https://www.usajobs.gov:443/job/859346400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DLAJ6-26-12897386-MP",
@@ -575,7 +608,8 @@
     "salary_min": 106437.0,
     "salary_max": 158322.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859080400"
+    "apply_url": "https://www.usajobs.gov:443/job/859080400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DLAJ6-26-12899088-MP",
@@ -592,7 +626,8 @@
     "salary_min": 106437.0,
     "salary_max": 158322.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859456500"
+    "apply_url": "https://www.usajobs.gov:443/job/859456500",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DISA-12891140-DA26",
@@ -609,7 +644,8 @@
     "salary_min": 121785.0,
     "salary_max": 158322.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859162700"
+    "apply_url": "https://www.usajobs.gov:443/job/859162700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ST-12898643-26-KMS",
@@ -626,7 +662,8 @@
     "salary_min": 85307.0,
     "salary_max": 158062.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859210700"
+    "apply_url": "https://www.usajobs.gov:443/job/859210700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-12851942",
@@ -643,7 +680,8 @@
     "salary_min": 63307.0,
     "salary_max": 156755.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/853838500"
+    "apply_url": "https://www.usajobs.gov:443/job/853838500",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DE-12892774-26-WB",
@@ -660,7 +698,8 @@
     "salary_min": 100602.0,
     "salary_max": 155521.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858196200"
+    "apply_url": "https://www.usajobs.gov:443/job/858196200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "5A-DCIPS-12900242-160608-JW",
@@ -677,7 +716,8 @@
     "salary_min": 117753.0,
     "salary_max": 153082.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859455200"
+    "apply_url": "https://www.usajobs.gov:443/job/859455200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-DISA-12890640-26TAH",
@@ -694,7 +734,8 @@
     "salary_min": 115475.0,
     "salary_max": 150119.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859075800"
+    "apply_url": "https://www.usajobs.gov:443/job/859075800",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-BPA-50055-12888985-DH",
@@ -711,7 +752,8 @@
     "salary_min": 114684.0,
     "salary_max": 149091.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858790700"
+    "apply_url": "https://www.usajobs.gov:443/job/858790700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-BPA-50215-12895636-MP",
@@ -728,7 +770,8 @@
     "salary_min": 114684.0,
     "salary_max": 149091.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859674200"
+    "apply_url": "https://www.usajobs.gov:443/job/859674200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-BPA-50215-12895638-DE",
@@ -745,7 +788,8 @@
     "salary_min": 114684.0,
     "salary_max": 149091.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859678300"
+    "apply_url": "https://www.usajobs.gov:443/job/859678300",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ST-12897736-26-EIF",
@@ -762,7 +806,8 @@
     "salary_min": 111896.0,
     "salary_max": 145468.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859464700"
+    "apply_url": "https://www.usajobs.gov:443/job/859464700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "NY-12875784-AF-T322026-130",
@@ -779,7 +824,8 @@
     "salary_min": 111301.0,
     "salary_max": 144694.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/856324100"
+    "apply_url": "https://www.usajobs.gov:443/job/856324100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-DISA-12893121-26JJ",
@@ -796,7 +842,8 @@
     "salary_min": 111119.0,
     "salary_max": 144457.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858423400"
+    "apply_url": "https://www.usajobs.gov:443/job/858423400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ST-12894537-26-AMC",
@@ -813,7 +860,8 @@
     "salary_min": 111119.0,
     "salary_max": 144457.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858598100"
+    "apply_url": "https://www.usajobs.gov:443/job/858598100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "NY-12899100-AF-T32026-205",
@@ -830,7 +878,8 @@
     "salary_min": 109810.0,
     "salary_max": 142755.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859304100"
+    "apply_url": "https://www.usajobs.gov:443/job/859304100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "USTC-26-12898364-DH",
@@ -847,7 +896,8 @@
     "salary_min": 91779.0,
     "salary_max": 141880.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859196900"
+    "apply_url": "https://www.usajobs.gov:443/job/859196900",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DISA-12893562-26TB",
@@ -864,7 +914,8 @@
     "salary_min": 103225.0,
     "salary_max": 141078.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858669800"
+    "apply_url": "https://www.usajobs.gov:443/job/858669800",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-DISA-12898427-26AA",
@@ -881,7 +932,8 @@
     "salary_min": 108019.0,
     "salary_max": 140426.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859554700"
+    "apply_url": "https://www.usajobs.gov:443/job/859554700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-12893984-26JR",
@@ -898,7 +950,8 @@
     "salary_min": 108001.0,
     "salary_max": 140403.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858844700"
+    "apply_url": "https://www.usajobs.gov:443/job/858844700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "126561-01-AG",
@@ -915,7 +968,8 @@
     "salary_min": 90925.0,
     "salary_max": 139684.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/856267700"
+    "apply_url": "https://www.usajobs.gov:443/job/856267700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "EUHR-26-12895494-DHA-R",
@@ -932,7 +986,8 @@
     "salary_min": 107446.0,
     "salary_max": 139684.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858648800"
+    "apply_url": "https://www.usajobs.gov:443/job/858648800",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DFAS-DHA-ML-12885243-26",
@@ -949,7 +1004,8 @@
     "salary_min": 107428.0,
     "salary_max": 139658.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858344700"
+    "apply_url": "https://www.usajobs.gov:443/job/858344700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ST-12896441-26-TDH",
@@ -966,7 +1022,8 @@
     "salary_min": 106437.0,
     "salary_max": 138370.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858922000"
+    "apply_url": "https://www.usajobs.gov:443/job/858922000",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ST-12893064-26-TAF",
@@ -983,7 +1040,8 @@
     "salary_min": 106437.0,
     "salary_max": 138370.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858617600"
+    "apply_url": "https://www.usajobs.gov:443/job/858617600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-DISA-12883338-26KT",
@@ -1000,7 +1058,8 @@
     "salary_min": 103225.0,
     "salary_max": 134195.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858662100"
+    "apply_url": "https://www.usajobs.gov:443/job/858662100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DWIA-26-12892619-MP",
@@ -1017,7 +1076,8 @@
     "salary_min": 102415.0,
     "salary_max": 133142.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859011700"
+    "apply_url": "https://www.usajobs.gov:443/job/859011700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "FEC-12893850-OPM",
@@ -1034,7 +1094,8 @@
     "salary_min": 70623.0,
     "salary_max": 133142.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859583100"
+    "apply_url": "https://www.usajobs.gov:443/job/859583100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DLAJ6-26-12893602-MP",
@@ -1051,7 +1112,8 @@
     "salary_min": 102415.0,
     "salary_max": 133142.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858658700"
+    "apply_url": "https://www.usajobs.gov:443/job/858658700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-DISA-12893509-26KT",
@@ -1068,7 +1130,8 @@
     "salary_min": 102415.0,
     "salary_max": 133142.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859479400"
+    "apply_url": "https://www.usajobs.gov:443/job/859479400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DLAJ6-26-12898580-MP",
@@ -1085,7 +1148,8 @@
     "salary_min": 89508.0,
     "salary_max": 133142.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859227500"
+    "apply_url": "https://www.usajobs.gov:443/job/859227500",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "FEC-12883256-OPM",
@@ -1102,7 +1166,8 @@
     "salary_min": 85447.0,
     "salary_max": 133142.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857927200"
+    "apply_url": "https://www.usajobs.gov:443/job/857927200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-12889642-26JR",
@@ -1119,7 +1184,8 @@
     "salary_min": 102415.0,
     "salary_max": 133142.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859662100"
+    "apply_url": "https://www.usajobs.gov:443/job/859662100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "TX-12832387-T5",
@@ -1136,7 +1202,8 @@
     "salary_min": 102203.0,
     "salary_max": 132870.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858729200"
+    "apply_url": "https://www.usajobs.gov:443/job/858729200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DE-12831646-26-MVP",
@@ -1153,7 +1220,8 @@
     "salary_min": 77001.0,
     "salary_max": 131826.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/851192600"
+    "apply_url": "https://www.usajobs.gov:443/job/851192600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ST-12893462-26-GAS",
@@ -1170,7 +1238,8 @@
     "salary_min": 101091.0,
     "salary_max": 131422.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858413900"
+    "apply_url": "https://www.usajobs.gov:443/job/858413900",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ST-12898699-26-KMS",
@@ -1187,7 +1256,8 @@
     "salary_min": 88809.0,
     "salary_max": 131422.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859212500"
+    "apply_url": "https://www.usajobs.gov:443/job/859212500",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DE-12883688-26-CAF",
@@ -1204,7 +1274,8 @@
     "salary_min": 88809.0,
     "salary_max": 131422.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857556800"
+    "apply_url": "https://www.usajobs.gov:443/job/857556800",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-BPA-50056-12888992-DH",
@@ -1221,7 +1292,8 @@
     "salary_min": 96443.0,
     "salary_max": 125378.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858791200"
+    "apply_url": "https://www.usajobs.gov:443/job/858791200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "AK-12892067-AF-26-083-C",
@@ -1238,7 +1310,8 @@
     "salary_min": 85607.0,
     "salary_max": 123876.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858223500"
+    "apply_url": "https://www.usajobs.gov:443/job/858223500",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "AK-12831682-AF-26-027-B",
@@ -1255,7 +1328,8 @@
     "salary_min": 84761.0,
     "salary_max": 122636.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/849970300"
+    "apply_url": "https://www.usajobs.gov:443/job/849970300",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DFAS-ML-12885607-26",
@@ -1272,7 +1346,8 @@
     "salary_min": 90341.0,
     "salary_max": 121502.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858296300"
+    "apply_url": "https://www.usajobs.gov:443/job/858296300",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DFAS-DHA-ML-12894465-26",
@@ -1289,7 +1364,8 @@
     "salary_min": 89508.0,
     "salary_max": 121502.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859160500"
+    "apply_url": "https://www.usajobs.gov:443/job/859160500",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CES-DISA-12894865-26TH",
@@ -1306,7 +1382,8 @@
     "salary_min": 93400.0,
     "salary_max": 121422.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859015800"
+    "apply_url": "https://www.usajobs.gov:443/job/859015800",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "VT-12879237-AR-26-02",
@@ -1323,7 +1400,8 @@
     "salary_min": 91335.0,
     "salary_max": 118738.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858003900"
+    "apply_url": "https://www.usajobs.gov:443/job/858003900",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "9P-DCIPS-12900145-110184-LZ",
@@ -1340,7 +1418,8 @@
     "salary_min": 90823.0,
     "salary_max": 118072.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859634600"
+    "apply_url": "https://www.usajobs.gov:443/job/859634600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "NE-12889595-AR-26-028",
@@ -1357,7 +1436,8 @@
     "salary_min": 75278.0,
     "salary_max": 116362.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858067600"
+    "apply_url": "https://www.usajobs.gov:443/job/858067600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "GA-12890547-AF-25-064",
@@ -1374,7 +1454,8 @@
     "salary_min": 89508.0,
     "salary_max": 116362.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857887700"
+    "apply_url": "https://www.usajobs.gov:443/job/857887700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "NE-12842965-AR-26-004",
@@ -1391,7 +1472,8 @@
     "salary_min": 74532.0,
     "salary_max": 115213.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/851428200"
+    "apply_url": "https://www.usajobs.gov:443/job/851428200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "NE-12843002-AR-26-005",
@@ -1408,7 +1490,8 @@
     "salary_min": 88621.0,
     "salary_max": 115213.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/851449400"
+    "apply_url": "https://www.usajobs.gov:443/job/851449400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "NY-12883680-AF-T32026-159",
@@ -1425,7 +1508,8 @@
     "salary_min": 88005.0,
     "salary_max": 114413.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857551800"
+    "apply_url": "https://www.usajobs.gov:443/job/857551800",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "NY-12890801-AF-T32026-179",
@@ -1442,7 +1526,8 @@
     "salary_min": 88005.0,
     "salary_max": 114413.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858004200"
+    "apply_url": "https://www.usajobs.gov:443/job/858004200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "CSB-26-DH-12898693CPO",
@@ -1459,7 +1544,8 @@
     "salary_min": 85447.0,
     "salary_max": 111087.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859342700"
+    "apply_url": "https://www.usajobs.gov:443/job/859342700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "MCFT-26-12897874-DHA",
@@ -1476,7 +1562,8 @@
     "salary_min": 85447.0,
     "salary_max": 111087.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859269700"
+    "apply_url": "https://www.usajobs.gov:443/job/859269700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "E/OES-MPI-2026-0003",
@@ -1493,7 +1580,8 @@
     "salary_min": 85447.0,
     "salary_max": 111087.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858926000"
+    "apply_url": "https://www.usajobs.gov:443/job/858926000",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "MA-12875109-T5-26-104-005",
@@ -1510,7 +1598,8 @@
     "salary_min": 84260.0,
     "salary_max": 109545.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857715200"
+    "apply_url": "https://www.usajobs.gov:443/job/857715200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "NE-12846859-AF-26-011",
@@ -1527,7 +1616,8 @@
     "salary_min": 79445.0,
     "salary_max": 103276.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/852458100"
+    "apply_url": "https://www.usajobs.gov:443/job/852458100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "7I-AFPC-12896896-112778-LLK",
@@ -1544,7 +1634,8 @@
     "salary_min": 78117.0,
     "salary_max": 101558.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858897100"
+    "apply_url": "https://www.usajobs.gov:443/job/858897100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "DLAJ6-26-12899150-DHA",
@@ -1561,7 +1652,8 @@
     "salary_min": 77926.0,
     "salary_max": 101309.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859460900"
+    "apply_url": "https://www.usajobs.gov:443/job/859460900",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "OH-12890919-AF-25-453-T5",
@@ -1578,7 +1670,8 @@
     "salary_min": 77785.0,
     "salary_max": 101126.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858725000"
+    "apply_url": "https://www.usajobs.gov:443/job/858725000",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "PA-12864975-AF-26-033",
@@ -1595,7 +1688,8 @@
     "salary_min": 68545.0,
     "salary_max": 99053.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857386400"
+    "apply_url": "https://www.usajobs.gov:443/job/857386400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "PA-12864977-AF-26-035",
@@ -1612,7 +1706,8 @@
     "salary_min": 76190.0,
     "salary_max": 99053.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/856544200"
+    "apply_url": "https://www.usajobs.gov:443/job/856544200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "MO-12827011-AF-25-097",
@@ -1629,7 +1724,8 @@
     "salary_min": 75815.0,
     "salary_max": 98554.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/849162500"
+    "apply_url": "https://www.usajobs.gov:443/job/849162500",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "IA-12898670-AR-26-105",
@@ -1646,7 +1742,8 @@
     "salary_min": 75284.0,
     "salary_max": 97875.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859327900"
+    "apply_url": "https://www.usajobs.gov:443/job/859327900",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-AFRH-12883264-P",
@@ -1663,7 +1760,8 @@
     "salary_min": 75278.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859251700"
+    "apply_url": "https://www.usajobs.gov:443/job/859251700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-AFRH-12883265",
@@ -1680,7 +1778,8 @@
     "salary_min": 75278.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859252200"
+    "apply_url": "https://www.usajobs.gov:443/job/859252200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "AL-12898154-T5-26-050",
@@ -1697,7 +1796,8 @@
     "salary_min": 75278.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859252100"
+    "apply_url": "https://www.usajobs.gov:443/job/859252100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "NV-12891326-AF-26-024",
@@ -1714,7 +1814,8 @@
     "salary_min": 75278.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858555200"
+    "apply_url": "https://www.usajobs.gov:443/job/858555200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "NY-12885443-AF-T32026-172",
@@ -1731,7 +1832,8 @@
     "salary_min": 75278.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858375100"
+    "apply_url": "https://www.usajobs.gov:443/job/858375100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "NE-12889651-AR-26-032",
@@ -1748,7 +1850,8 @@
     "salary_min": 75278.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858068100"
+    "apply_url": "https://www.usajobs.gov:443/job/858068100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "IL-12873025-AR-26-035",
@@ -1765,7 +1868,8 @@
     "salary_min": 68545.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/855466300"
+    "apply_url": "https://www.usajobs.gov:443/job/855466300",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "FL-12895616-AF-T32-26-312",
@@ -1782,7 +1886,8 @@
     "salary_min": 57331.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858671100"
+    "apply_url": "https://www.usajobs.gov:443/job/858671100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "FL-12895646-AF-T32-26-313",
@@ -1799,7 +1904,8 @@
     "salary_min": 57331.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858676800"
+    "apply_url": "https://www.usajobs.gov:443/job/858676800",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "FL-12895735-AF-T32-26-316",
@@ -1816,7 +1922,8 @@
     "salary_min": 57331.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858687200"
+    "apply_url": "https://www.usajobs.gov:443/job/858687200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "FL-12895764-AF-T32-26-317",
@@ -1833,7 +1940,8 @@
     "salary_min": 57331.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858692400"
+    "apply_url": "https://www.usajobs.gov:443/job/858692400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "IN-12900048-AF-26-025",
@@ -1850,7 +1958,8 @@
     "salary_min": 75278.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859575400"
+    "apply_url": "https://www.usajobs.gov:443/job/859575400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "FL-12865684-AR-T32-26-314",
@@ -1867,7 +1976,8 @@
     "salary_min": 57331.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858681500"
+    "apply_url": "https://www.usajobs.gov:443/job/858681500",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "FL-12873170-AF-T32-26-243",
@@ -1884,7 +1994,8 @@
     "salary_min": 57331.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/856344600"
+    "apply_url": "https://www.usajobs.gov:443/job/856344600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ND-12892779-AF-26-006 (T5)",
@@ -1901,7 +2012,8 @@
     "salary_min": 75278.0,
     "salary_max": 97867.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858306200"
+    "apply_url": "https://www.usajobs.gov:443/job/858306200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "FL-12879933-AF-T32-26-258",
@@ -1918,7 +2030,8 @@
     "salary_min": 61722.0,
     "salary_max": 97087.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/856573400"
+    "apply_url": "https://www.usajobs.gov:443/job/856573400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-12891349",
@@ -1935,7 +2048,8 @@
     "salary_min": 75000.0,
     "salary_max": 95000.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858376600"
+    "apply_url": "https://www.usajobs.gov:443/job/858376600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "PA-12864971-AF-26-031",
@@ -1952,7 +2066,8 @@
     "salary_min": 68545.0,
     "salary_max": 89114.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857385400"
+    "apply_url": "https://www.usajobs.gov:443/job/857385400",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-TXN-12891232-DE",
@@ -1969,7 +2084,8 @@
     "salary_min": 58193.0,
     "salary_max": 89114.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857965200"
+    "apply_url": "https://www.usajobs.gov:443/job/857965200",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-TXN-12891233-MS",
@@ -1986,7 +2102,8 @@
     "salary_min": 58193.0,
     "salary_max": 89114.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857965100"
+    "apply_url": "https://www.usajobs.gov:443/job/857965100",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-01",
@@ -2003,7 +2120,8 @@
     "salary_min": 49256.0,
     "salary_max": 88445.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/857847900"
+    "apply_url": "https://www.usajobs.gov:443/job/857847900",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "E-26-2210-PAQ-12800560-GLH",
@@ -2020,7 +2138,8 @@
     "salary_min": 56763.0,
     "salary_max": 88225.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/847096900"
+    "apply_url": "https://www.usajobs.gov:443/job/847096900",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "ALND 26-04",
@@ -2037,7 +2156,8 @@
     "salary_min": 49858.0,
     "salary_max": 81074.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/858332800"
+    "apply_url": "https://www.usajobs.gov:443/job/858332800",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-12896617",
@@ -2054,7 +2174,8 @@
     "salary_min": 60000.0,
     "salary_max": 75000.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859218300"
+    "apply_url": "https://www.usajobs.gov:443/job/859218300",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-HRD-12891040-RG-JLW",
@@ -2071,7 +2192,8 @@
     "salary_min": 43106.0,
     "salary_max": 68549.0,
     "salary_rate": "PA",
-    "apply_url": "https://www.usajobs.gov:443/job/859683600"
+    "apply_url": "https://www.usajobs.gov:443/job/859683600",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "remotive_2082736",
@@ -2088,7 +2210,8 @@
     "salary_min": 220.0,
     "salary_max": 300.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/marketing/senior-amazon-brand-manager-2082736"
+    "apply_url": "https://remotive.com/remote-jobs/marketing/senior-amazon-brand-manager-2082736",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2069746",
@@ -2105,7 +2228,8 @@
     "salary_min": 170.0,
     "salary_max": 200.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746"
+    "apply_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2069747",
@@ -2122,7 +2246,8 @@
     "salary_min": 160.0,
     "salary_max": 180.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/tech-lead-databricks-data-engineer-2069747"
+    "apply_url": "https://remotive.com/remote-jobs/software-development/tech-lead-databricks-data-engineer-2069747",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_1919266",
@@ -2139,7 +2264,8 @@
     "salary_min": 120.0,
     "salary_max": 170.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266"
+    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2070150",
@@ -2156,7 +2282,8 @@
     "salary_min": 130.0,
     "salary_max": 150.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2070150"
+    "apply_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2070150",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_1919265",
@@ -2173,7 +2300,8 @@
     "salary_min": 90.0,
     "salary_max": 150.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265"
+    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2088624",
@@ -2190,7 +2318,8 @@
     "salary_min": 100.0,
     "salary_max": 150.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-python-backend-developer-2088624"
+    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-python-backend-developer-2088624",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_1956455",
@@ -2207,7 +2336,8 @@
     "salary_min": 60.0,
     "salary_max": 130.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/ios-developer-1956455"
+    "apply_url": "https://remotive.com/remote-jobs/software-development/ios-developer-1956455",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2088647",
@@ -2224,7 +2354,8 @@
     "salary_min": 80.0,
     "salary_max": 120.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/design/senior-product-designer-2088647"
+    "apply_url": "https://remotive.com/remote-jobs/design/senior-product-designer-2088647",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2088637",
@@ -2241,7 +2372,8 @@
     "salary_min": 65.0,
     "salary_max": 80.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/devops/red-team-specialist-offensive-security-2088637"
+    "apply_url": "https://remotive.com/remote-jobs/devops/red-team-specialist-offensive-security-2088637",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_1185979",
@@ -2258,7 +2390,8 @@
     "salary_min": 50.0,
     "salary_max": 75.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979"
+    "apply_url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2088650",
@@ -2275,7 +2408,8 @@
     "salary_min": 48.0,
     "salary_max": 60.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/all-others/entry-level-crypto-market-specialist-2088650"
+    "apply_url": "https://remotive.com/remote-jobs/all-others/entry-level-crypto-market-specialist-2088650",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2088643",
@@ -2292,7 +2426,8 @@
     "salary_min": 30.0,
     "salary_max": 60.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643"
+    "apply_url": "https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2088635",
@@ -2309,7 +2444,8 @@
     "salary_min": 50.0,
     "salary_max": 60.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/project-management/order-management-and-operations-manager-2088635"
+    "apply_url": "https://remotive.com/remote-jobs/project-management/order-management-and-operations-manager-2088635",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_1680495",
@@ -2326,7 +2462,8 @@
     "salary_min": 312.0,
     "salary_max": 52.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/marketing/office-assistant-1680495"
+    "apply_url": "https://remotive.com/remote-jobs/marketing/office-assistant-1680495",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "26-5NFSR217620",
@@ -2343,7 +2480,8 @@
     "salary_min": 40.0,
     "salary_max": 40.0,
     "salary_rate": "PH",
-    "apply_url": "https://www.usajobs.gov:443/job/859251000"
+    "apply_url": "https://www.usajobs.gov:443/job/859251000",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "26-6WFSRBI219051",
@@ -2360,7 +2498,8 @@
     "salary_min": 30.0,
     "salary_max": 35.0,
     "salary_rate": "PH",
-    "apply_url": "https://www.usajobs.gov:443/job/859614700"
+    "apply_url": "https://www.usajobs.gov:443/job/859614700",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "remotive_1749306",
@@ -2377,7 +2516,8 @@
     "salary_min": 20.0,
     "salary_max": 35.0,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/writing/copywriter-1749306"
+    "apply_url": "https://remotive.com/remote-jobs/writing/copywriter-1749306",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "26-5VFSR213463",
@@ -2394,7 +2534,8 @@
     "salary_min": 25.26,
     "salary_max": 25.26,
     "salary_rate": "PH",
-    "apply_url": "https://www.usajobs.gov:443/job/859239500"
+    "apply_url": "https://www.usajobs.gov:443/job/859239500",
+    "Telework_flag": "unknown"
   },
   {
     "job_id": "remotive_2088618",
@@ -2411,7 +2552,8 @@
     "salary_min": 14.5,
     "salary_max": 14.5,
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/ai-ml/ai-internet-rater-2088618"
+    "apply_url": "https://remotive.com/remote-jobs/ai-ml/ai-internet-rater-2088618",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2088644",
@@ -2428,7 +2570,8 @@
     "salary_min": "",
     "salary_max": "",
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088644"
+    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088644",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2088639",
@@ -2445,7 +2588,8 @@
     "salary_min": "",
     "salary_max": "",
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/sales-business/account-director-m-w-d-2088639"
+    "apply_url": "https://remotive.com/remote-jobs/sales-business/account-director-m-w-d-2088639",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2088634",
@@ -2462,7 +2606,8 @@
     "salary_min": "",
     "salary_max": "",
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/ai-ml/ai-native-cloud-infrastructure-generalist-m-f-d-2088634"
+    "apply_url": "https://remotive.com/remote-jobs/ai-ml/ai-native-cloud-infrastructure-generalist-m-f-d-2088634",
+    "Telework_flag": "remote"
   },
   {
     "job_id": "remotive_2086826",
@@ -2479,6 +2624,7 @@
     "salary_min": "",
     "salary_max": "",
     "salary_rate": "",
-    "apply_url": "https://remotive.com/remote-jobs/customer-service/client-support-specialist-2086826"
+    "apply_url": "https://remotive.com/remote-jobs/customer-service/client-support-specialist-2086826",
+    "Telework_flag": "remote"
   }
 ]

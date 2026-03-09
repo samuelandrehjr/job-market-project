@@ -50,6 +50,7 @@ def main():
             job.get("publication_date", ""),
             "",                                 # closing_date
             "remote",                           # telework
+            "remote",                           # telework_flag
             "",                                 # grade
             job.get("category", ""),
             salary_min,
@@ -61,10 +62,10 @@ def main():
         cur.execute("""
         INSERT OR REPLACE INTO jobs (
             job_id, source, title, organization, department, location,
-            posting_date, closing_date, telework, grade, job_series,
+            posting_date, closing_date, telework, telework_flag, grade, job_series,
             salary_min, salary_max, salary_rate, apply_url
         )
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, row)
 
         inserted += 1
