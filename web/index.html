@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Job Market Board</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    input { width: 300px; padding: 8px; margin-bottom: 12px; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top; }
+    th { background: #f3f3f3; }
+    a { text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>Job Market Board</h1>
+  <input id="searchBox" type="text" placeholder="Search title, organization, or location">
+  <p id="count"></p>
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Organization</th>
+        <th>Location</th>
+        <th>Salary Max</th>
+        <th>Apply</th>
+      </tr>
+    </thead>
+    <tbody id="jobsTable"></tbody>
+  </table>
+
+  <script>
+    let jobs = [];
+
+    function renderRows(rows) {
+      const table = document.getElementById("jobsTable");
+      const count = document.getElementById("count");
+      table.innerHTML = "";
+
+      rows.forEach(job => {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td>${job.title || ""}</td>
+          <td>${job.organization || ""}</td>
+          <td>${job.location || ""}</td>
+          <td>${job.salary_max || ""}</td>
+          <td><a href="${job.apply_url || "#"}" target="_blank">Apply</a></td>
+        `;
+        table.appendChild(tr);
+      });
+
+      count.textContent = `Showing ${rows.length} jobs`;
+    }
+
+    fetch("jobs.json")
+      .then(response => response.json())
+      .then(data => {
+        jobs = data;
+        renderRows(jobs);
+
+        document.getElementById("searchBox").addEventListener("input", function() {
+          const q = this.value.toLowerCase();
+          const filtered = jobs.filter(job =>
+            (job.title || "").toLowerCase().includes(q) ||
+            (job.organization || "").toLowerCase().includes(q) ||
+            (job.location || "").toLowerCase().includes(q)
+          );
+          renderRows(filtered);
+        });
+      });
+  </script>
+</body>
+</html>
