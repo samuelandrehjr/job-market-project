@@ -111,7 +111,7 @@
       .then(data => {
         jobs = data;
         
-        const sourceFilter = document.getElementaryById("sourceFilter");
+        const sourceFilter = document.getElementById("sourceFilter");
         const sources = [...new Set(jobs.map(job => job.source).filter(Boolean))].sort();
 
         sources.forEach(src => {

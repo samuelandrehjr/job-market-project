@@ -6,24 +6,52 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body { font-family: Arial, sans-serif; margin: 20px; }
-    input { width: 300px; padding: 8px; margin-bottom: 12px; }
+    h1 { margin-bottom: 10px; }
+    .filters { margin-bottom: 16px; display: flex; gap: 10px; flex-wrap: wrap; }
+    input, select {
+      padding: 8px;
+      min-width: 180px;
+    }
     table { border-collapse: collapse; width: 100%; }
-    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; vertical-align: top; }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px;
+      text-align: left;
+      vertical-align: top;
+    }
     th { background: #f3f3f3; }
     a { text-decoration: none; }
   </style>
 </head>
 <body>
   <h1>Job Market Board</h1>
-  <input id="searchBox" type="text" placeholder="Search title, organization, or location">
+
+  <div class="filters">
+    <input id="searchBox" type="text" placeholder="Search title, organization, or location">
+    <select id="sourceFilter">
+      <option value="">All sources</option>
+    </select>
+    <select id="teleworkFilter">
+      <option value="">All telework</option>
+      <option value="remote">Remote</option>
+      <option value="non_remote">Non-remote</option>
+      <option value="unknown">Unknown</option>
+    </select>
+    <input id="salaryFilter" type="number" placeholder="Minimum salary max">
+  </div>
+
   <p id="count"></p>
+
   <table>
     <thead>
       <tr>
         <th>Title</th>
-        <th>Organization</th>
+        <th>organization</th>
+        <th>Source</th>
         <th>Location</th>
+        <th>Telework</th>
         <th>Salary Max</th>
+        <th>Posting Date</th>
         <th>Apply</th>
       </tr>
     </thead>
@@ -43,8 +71,11 @@
         tr.innerHTML = `
           <td>${job.title || ""}</td>
           <td>${job.organization || ""}</td>
+          <td>${job.source || ""}</td>
           <td>${job.location || ""}</td>
+          <td>${job.telework_flag || ""}</td>
           <td>${job.salary_max || ""}</td>
+          <td>${job.posting_date || ""}</td>
           <td><a href="${job.apply_url || "#"}" target="_blank">Apply</a></td>
         `;
         table.appendChild(tr);
@@ -53,21 +84,49 @@
       count.textContent = `Showing ${rows.length} jobs`;
     }
 
+    function applyFilters() {
+      const q = document.getElementById("searchBox").value.toLowerCase();
+      const source = document.getElementById("sourceFilter").value;
+      const telework = document.getElementById("teleworkFilter").value;
+      const minSalary = Number(document.getElementById("salaryFilter").value || 0);
+
+      const filtered = jobs.filter(job => {
+        const textMatch =
+          (job.title || "").toLowerCase().includes(q) ||
+          (job.organization || "").toLowerCase().includes(q) ||
+          (job.location || "").toLowerCase().includes(q);
+
+        const sourceMatch = !source || (job.source || "") === source;
+        const teleworkMatch = !telework || (job.telework_flag || "") === telework;
+        const salaryMatch = !minSalary || Number(job.salary_max || 0) >= minSalary;
+
+        return textMatch && sourceMatch && teleworkMatch && salaryMatch;
+      });
+
+      renderRows(filtered);
+    }
+
     fetch("jobs.json")
       .then(response => response.json())
       .then(data => {
         jobs = data;
+        
+        const sourceFilter = document.getElementById("sourceFilter");
+        const sources = [...new Set(jobs.map(job => job.source).filter(Boolean))].sort();
+
+        sources.forEach(src => {
+          const option = document.createElement("option");
+          option.value = src;
+          option.textContent = src;
+          sourceFilter.appendChild(option);
+        });
+
         renderRows(jobs);
 
-        document.getElementById("searchBox").addEventListener("input", function() {
-          const q = this.value.toLowerCase();
-          const filtered = jobs.filter(job =>
-            (job.title || "").toLowerCase().includes(q) ||
-            (job.organization || "").toLowerCase().includes(q) ||
-            (job.location || "").toLowerCase().includes(q)
-          );
-          renderRows(filtered);
-        });
+        document.getElementById("searchBox").addEventListener("input", applyFilters);
+        document.getElementById("sourceFilter").addEventListener("change", applyFilters);
+        document.getElementById("teleworkFilter").addEventListener("change", applyFilters);
+        document.getElementById("salaryFilter").addEventListener("input", applyFilters);
       });
   </script>
 </body>
